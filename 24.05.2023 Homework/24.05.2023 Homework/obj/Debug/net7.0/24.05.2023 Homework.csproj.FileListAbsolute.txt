@@ -1,0 +1,28 @@
+C:\Users\FX506HE\source\repos\24.05.2023 Homework\24.05.2023 Homework\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\FX506HE\source\repos\24.05.2023 Homework\24.05.2023 Homework\bin\Debug\net7.0\appsettings.json
+C:\Users\FX506HE\source\repos\24.05.2023 Homework\24.05.2023 Homework\bin\Debug\net7.0\24.05.2023 Homework.exe
+C:\Users\FX506HE\source\repos\24.05.2023 Homework\24.05.2023 Homework\bin\Debug\net7.0\24.05.2023 Homework.deps.json
+C:\Users\FX506HE\source\repos\24.05.2023 Homework\24.05.2023 Homework\bin\Debug\net7.0\24.05.2023 Homework.runtimeconfig.json
+C:\Users\FX506HE\source\repos\24.05.2023 Homework\24.05.2023 Homework\bin\Debug\net7.0\24.05.2023 Homework.dll
+C:\Users\FX506HE\source\repos\24.05.2023 Homework\24.05.2023 Homework\bin\Debug\net7.0\24.05.2023 Homework.pdb
+C:\Users\FX506HE\source\repos\24.05.2023 Homework\24.05.2023 Homework\obj\Debug\net7.0\24.05.2023 Homework.csproj.AssemblyReference.cache
+C:\Users\FX506HE\source\repos\24.05.2023 Homework\24.05.2023 Homework\obj\Debug\net7.0\24.05.2023 Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FX506HE\source\repos\24.05.2023 Homework\24.05.2023 Homework\obj\Debug\net7.0\24.05.2023 Homework.AssemblyInfoInputs.cache
+C:\Users\FX506HE\source\repos\24.05.2023 Homework\24.05.2023 Homework\obj\Debug\net7.0\24.05.2023 Homework.AssemblyInfo.cs
+C:\Users\FX506HE\source\repos\24.05.2023 Homework\24.05.2023 Homework\obj\Debug\net7.0\24.05.2023 Homework.csproj.CoreCompileInputs.cache
+C:\Users\FX506HE\source\repos\24.05.2023 Homework\24.05.2023 Homework\obj\Debug\net7.0\24.05.2023 Homework.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\FX506HE\source\repos\24.05.2023 Homework\24.05.2023 Homework\obj\Debug\net7.0\24.05.2023 Homework.RazorAssemblyInfo.cache
+C:\Users\FX506HE\source\repos\24.05.2023 Homework\24.05.2023 Homework\obj\Debug\net7.0\24.05.2023 Homework.RazorAssemblyInfo.cs
+C:\Users\FX506HE\source\repos\24.05.2023 Homework\24.05.2023 Homework\obj\Debug\net7.0\staticwebassets\msbuild.24.05.2023 Homework.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\FX506HE\source\repos\24.05.2023 Homework\24.05.2023 Homework\obj\Debug\net7.0\staticwebassets\msbuild.build.24.05.2023 Homework.props
+C:\Users\FX506HE\source\repos\24.05.2023 Homework\24.05.2023 Homework\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.24.05.2023 Homework.props
+C:\Users\FX506HE\source\repos\24.05.2023 Homework\24.05.2023 Homework\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.24.05.2023 Homework.props
+C:\Users\FX506HE\source\repos\24.05.2023 Homework\24.05.2023 Homework\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\FX506HE\source\repos\24.05.2023 Homework\24.05.2023 Homework\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\FX506HE\source\repos\24.05.2023 Homework\24.05.2023 Homework\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\FX506HE\source\repos\24.05.2023 Homework\24.05.2023 Homework\obj\Debug\net7.0\scopedcss\bundle\24.05.2023 Homework.styles.css
+C:\Users\FX506HE\source\repos\24.05.2023 Homework\24.05.2023 Homework\obj\Debug\net7.0\24.05.2023 Homework.dll
+C:\Users\FX506HE\source\repos\24.05.2023 Homework\24.05.2023 Homework\obj\Debug\net7.0\refint\24.05.2023 Homework.dll
+C:\Users\FX506HE\source\repos\24.05.2023 Homework\24.05.2023 Homework\obj\Debug\net7.0\24.05.2023 Homework.pdb
+C:\Users\FX506HE\source\repos\24.05.2023 Homework\24.05.2023 Homework\obj\Debug\net7.0\24.05.2023 Homework.genruntimeconfig.cache
+C:\Users\FX506HE\source\repos\24.05.2023 Homework\24.05.2023 Homework\obj\Debug\net7.0\ref\24.05.2023 Homework.dll
